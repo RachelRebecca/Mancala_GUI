@@ -1,6 +1,5 @@
-# Mancala_GUI
-Windows Form version of the game Mancala
+# Mancala Game GUI Version
 
-Given Minimax Tree logic, built a Mancala Game using Windows Forms in C# and Graphics. 
+Given Minimax Tree logic, built a Mancala game using Windows Forms in C# and Graphics. 
 
 ![Mancala Game Image](Resources/StarterBoard_resized.jpg)
