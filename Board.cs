@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Mancala_GUI
 {
-    class Board
+    class Board 
     {
         public static readonly int NUM_SPOTS = 6;
         public static readonly int CUP_INDEX_VAL = 6;
